@@ -1,2 +1,9 @@
 # MelaSync
-A Flutter-powered music app that lets users upload, stream, and play music with synchronized lyrics. Users can tap any lyric line to jump to that part of the song, scroll lyrics while the track plays, and enjoy a dynamic and interactive music experience. Backend built with NestJS.
+
+MelaSync is a Flutter-powered Ethiopian Orthodox Church **Zemema** learning app. Users can easily learn traditional church **Zema** with an interactive experience:  
+- Lyrics are synchronized with the audio.  
+- Tap any line to jump directly to that part of the Zema.  
+- Scroll through lyrics while the track plays.  
+- Follow the signs and words to learn and practice Zemema in an engaging and easy way.  
+
+Backend powered by **NestJS**.
